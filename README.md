@@ -5,7 +5,12 @@ This search bar allows you to type in some words and provides the most related q
 This project uses the Weaviate vector database to provide vector simialrity search and the openAi ada embeddings model to vectorize the data.
 
 ### Here is an example of it in operation 
-https://github.com/Nasim06/TheOfficeQuoteFinder/assets/79113348/395ff216-e58a-468d-a4d3-b595e86126d4
+
+
+https://github.com/Nasim06/TheOfficeQuoteFinder/assets/79113348/a33ee112-5a52-400c-9786-a7c1f43478ba
+
+<br>
+<br>
 
 ## How to run it
 
